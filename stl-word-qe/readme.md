@@ -1,4 +1,4 @@
-# 🚀 Prerequisites & Model Link
+# Prerequisites & Model Link
 
 ## Installation  
 
