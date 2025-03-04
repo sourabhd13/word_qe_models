@@ -15,7 +15,7 @@ pip install .
 
 Install using pip
 ```bash
-pip install pip install transquest
+pip install transquest
 ```
 
 #### Link to the checkpoint: https://drive.google.com/drive/folders/17OpfowlMK5Fy_1URAevs-sIEqgu--gxL?usp=drive_link
